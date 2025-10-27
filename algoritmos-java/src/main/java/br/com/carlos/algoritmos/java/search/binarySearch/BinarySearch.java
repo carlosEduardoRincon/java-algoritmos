@@ -1,6 +1,7 @@
-package br.com.carlos.algoritmos.java.binarySearch;
+package br.com.carlos.algoritmos.java.search.binarySearch;
 
 public class BinarySearch {
+
     public static void main(String[] args) {
         var values = new int[]{2, 4, 6, 10, 15, 20, 25};
         var selectedNumber = 10;
